@@ -1,0 +1,168 @@
+
+body {
+  font-family: 'Catamaran', serif;
+
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+#hero-slides h1{
+	
+	color: #FFFFFF;
+	font-size: 90px;
+
+	
+}
+#hero-slides h4{
+	
+	color: #FFFFFF;
+	font-size: 40px;
+
+	
+}
+
+
+#hero-slides{
+	background-size: cover;
+	padding-bottom:70px;
+}
+
+#Conferences{
+	text-align: center;
+ padding: 50px;
+}
+
+#Conferences p{
+	color:  #898989;
+	
+}
+
+#Conferences h5 {
+	padding-top: 30px;
+}
+
+#Conferences h2{
+	color: #282d33;
+	padding: 30px;
+	font-size: 40px;
+}
+#Sponsors p{
+	padding-bottom: 30px;
+		color:  #898989;	
+
+}
+
+
+
+#speaker p{
+	
+	color:  #898989;	
+	
+}
+
+#speaker h6{
+	
+	color: #282d33;
+	padding-top: 20px;
+	
+}
+
+#speaker h4{
+	
+	color: #282d33;
+	padding: 30px;
+	font-size: 40px;
+}
+	
+#speaker p{
+	padding-bottom: 30px;
+}
+
+#speaker{
+	padding: 40px;
+	text-align: center;
+}
+
+
+
+	
+#Meetings p{
+	text-align: left;
+}
+
+#Meetings h2{
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 20px;
+}
+
+#Meetings p{
+	font-weight: 300;
+	color: #9B9797;
+	font-size: 12px;
+}
+
+#Meetings i{
+	
+	font-size: 40px;
+	line-height: 70px;
+	
+	color: #9B9797;
+}
+
+
+#Meetings{
+	background-color: #282d33;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 150px;
+	
+}
+#Meetings h1{
+	text-align: center;
+}
+#Meetings h3{
+	color: white;
+	font-size: 14px;
+	text-align: left;
+}
+
+#Sponsors img{
+	padding-bottom: 50px;
+}
+
+#Sponsors{
+	
+	padding: 20px;
+	text-align: center;
+}
+#Sponsors h2{
+color: #282d33;
+	padding: 30px;
+	font-size: 40px;
+}
+
+#Sponsors p{
+	
+	padding-bottom: 30px;
+		color:  #898989;	
+
+
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
